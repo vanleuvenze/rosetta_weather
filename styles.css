@@ -1,0 +1,28 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	margin: 100px auto;
+	width: 100%;
+
+}
+.rosettaTitle {
+	order: 1;
+	font-size: 60px;
+	margin: 0 auto 0 auto;
+}
+.input {
+	order: 2;
+	margin: 50px auto 0 auto;
+/*	width: 400px;*/
+}
+.weather {
+	order: 3;
+	margin: 20px auto;
+}
+input {
+	width: 400px;
+	text-align: center;
+}
+p {
+	margin: 0 auto !important;
+}
