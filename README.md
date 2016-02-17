@@ -1,2 +1,2 @@
 # rosetta_weather
-Angular practice
+Weather App Demo using Angular
